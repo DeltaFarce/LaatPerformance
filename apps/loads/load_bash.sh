@@ -1,0 +1,1 @@
+tail -n 60 $(cd $(dirname $0);pwd)/load.html &> $(cd $(dirname $0);pwd)/load_bash.html

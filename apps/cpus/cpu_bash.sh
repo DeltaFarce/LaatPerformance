@@ -1,0 +1,1 @@
+tail -n 60 $(cd $(dirname $0);pwd)/cpu.html &> $(cd $(dirname $0);pwd)/cpu_bash.html
